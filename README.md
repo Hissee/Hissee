@@ -26,11 +26,6 @@ Here are some small projects I'm working on:
 
 ---
 
-## 🚀 Learning Progress
-![Progress](https://progress-bar.dev/30/?title=111%20Days%20of%20Learning)
-
----
-
 ## 🤝 Let's Connect!
 - **LinkedIn**: [My LinkedIn Profile](https://www.linkedin.com/in/hissee-maharjan-395591255/)
 - **Email**: [maharjanhissee@gmail.com](mailto:maharjanhissee@gmail.com)
